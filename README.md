@@ -6,8 +6,8 @@ This project implements a **fake news classification system** using the [LIAR da
 The system is inspired by [previous work](https://github.com/moscatena/Fake-News-Classification?tab=readme-ov-file) on LIAR dataset classification and aims to leverage a fine-tuned DistilBERT + MLP architecture enhanced with metadata integration, for improved results.
 
 ## Getting Started
-The repository includes the main script in the form of a Jupyter notebook (**DistilBERTMLPClassifier.ipynb**) adapted for use with Google Colab. 
+The repository includes the main script in the form of a Jupyter notebook (**DistilBERTMLPClassifier.ipynb**) adapted for use with **Google Colab**. 
 
-This version is optimized to leverage a GPU for faster training and inference. Before running the notebook, make sure to set up the required dependencies and configure any necessary paths for your environment.
+This version is optimized to leverage a **GPU** for faster training and inference. Before running the notebook, make sure to set up the required dependencies and configure any necessary paths for your environment.
 
 In addition to the notebook, the repository contains several .py files (data_loader.py, preprocessing.py, training.py, evaluation.py, and predict.py) that organize the code into reusable modules. 
