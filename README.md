@@ -1,4 +1,4 @@
-# Fake News Classification on LIAR Dataset with DistilBERT
+# Truth or Lie? Fake News Classification using the LIAR dataset.
 
 ## Overview
 This project implements a **fake news classification system** using the [LIAR dataset](https://aclanthology.org/P17-2067.pdf), a collection of 12.8K short political statements labeled for truthfulness. 
